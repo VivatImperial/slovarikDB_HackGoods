@@ -1,0 +1,1 @@
+# slovarikDB_HackGoods
